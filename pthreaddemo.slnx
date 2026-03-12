@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pthreaddemo/pthreaddemo.vcxproj" Id="57ece0b1-4650-4d3e-92d2-2e106612598c" />
+</Solution>
