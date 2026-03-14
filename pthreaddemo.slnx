@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="pthreaddemo/pthreaddemo.vcxproj" Id="57ece0b1-4650-4d3e-92d2-2e106612598c" />
+  <Project Path="求pi/求pi.vcxproj" Id="c4944335-a6b6-4d96-b02c-09f8fc0bfe73" />
 </Solution>
