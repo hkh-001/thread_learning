@@ -1,0 +1,34 @@
+# 隐私：实验报告
+*.docx
+~$*
+
+# CUDA / C++ 编译产物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.a
+*.so
+*.dll
+*.cubin
+*.ptx
+
+# 构建日志
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+
+# VS 临时目录
+.vs/
+x64/
+Debug/
+Release/
+
+# 运行生成的中间图片
+output.png
+*_output.png

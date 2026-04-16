@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Sobel/Sobel.vcxproj" Id="3a28da9c-a947-46dc-a168-3957e89eec69" />
+</Solution>
